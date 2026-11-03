@@ -2,8 +2,7 @@ cask "makitro" do
   version "0.9.0"
   sha256 "54ad559b0b4cfd381f00a0781765b91bcdee5e4ea497718527f6d7e1dfe53232"
 
-  url "https://github.com/itsproali/makitro/releases/download/v#{version}/Makitro-#{version}.dmg",
-      verified: "github.com/itsproali/makitro/"
+  url "https://github.com/itsproali/makitro/releases/download/v#{version}/Makitro-#{version}.dmg"
   name "Makitro"
   desc "Menu-bar toolkit: clipboard history, scroll reverser, color picker"
   homepage "https://makitro.mdali.dev/"
