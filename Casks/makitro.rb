@@ -9,7 +9,7 @@ cask "makitro" do
 
   livecheck do
     url "https://makitro.mdali.dev/appcast.xml"
-    strategy :sparkle
+    strategy :sparkle, &:short_version
   end
 
   auto_updates true
