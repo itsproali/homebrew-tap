@@ -1,6 +1,6 @@
 cask "makitro" do
   version "0.9.0"
-  sha256 "54ad559b0b4cfd381f00a0781765b91bcdee5e4ea497718527f6d7e1dfe53232"
+  sha256 "3e5b603701c807221064438ce26b1a51be01d5226294665f64e128d19453d244"
 
   url "https://github.com/itsproali/makitro/releases/download/v#{version}/Makitro-#{version}.dmg"
   name "Makitro"
